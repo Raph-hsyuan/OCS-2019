@@ -9,3 +9,4 @@
 * [Architecture logicielle](https://github.com/Sebastien-Posca/OCS-2019/wiki/Architecture#architecture-logicielle-)
 ### [Sprints](https://github.com/Sebastien-Posca/OCS-2019/wiki/Sprints)
 ### [Scénarios](https://github.com/Sebastien-Posca/OCS-2019/wiki/Scénarios)
+![model](/doc/structure.png)
