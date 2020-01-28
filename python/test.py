@@ -6,7 +6,6 @@ import motor_controller as mt
 import time
 
 cled = led.Led_Controller(6)
-led.Led_Controller(1)
 cled.setColor(1)
 time.sleep(.2)
 cled.setColor(2)
@@ -16,6 +15,13 @@ time.sleep(.2)
 cled.setColor(0)
 time.sleep(.2)
 cled.setColor(-1)
+
+cled.setColorBySecond(3,1)
+cled.setColorBySecond(2,1)
+
+
+cled.setBlinkBySecond(1,10)
+
 
 rdis = dis.Distance_Reader(5)
 print(rdis.foundSomething())
@@ -34,6 +40,3 @@ cmt.rotate()
 
 #     except IOError:
 #         print ("Error")
-
-
-

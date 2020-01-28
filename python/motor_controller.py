@@ -10,6 +10,8 @@ class Motor_Controller():
         GPIO.setup(GPIO_port,GPIO.OUT)
 
     def rotate(self, degree = 22.5):
+        GPIO.setmode(GPIO.BOARD)
+        GPIO.setup(self.GPIO_port,GPIO.OUT)
         times = int(round(degree / 7.5))
         print("rotate:"+str(times*7.5)+" degrees")
         for n in range(times):
@@ -18,4 +20,5 @@ class Motor_Controller():
             GPIO.output(self.GPIO_port,0)#stop
             time.sleep(1)
         GPIO.cleanup()
+
 

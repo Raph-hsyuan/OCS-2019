@@ -31,3 +31,16 @@ class Led_Controller():
             grovepi.storeColor(255,255,255)
             print("set: p" + str(self.pin) + " to default white")
         grovepi.chainableRgbLed_pattern(self.pin, thisLedOnly, 0)
+
+    def setColorBySecond(self, color, second):
+        self.setColor(color)
+        time.sleep(second)
+        self.setColor(-1)
+
+    def setBlinkBySecond(self, color, times):
+        for n in range(times):
+            self.setColor(color)
+            time.sleep(.2)
+            self.setColor(-1)
+            time.sleep(.2)
+
