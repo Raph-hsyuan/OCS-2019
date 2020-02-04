@@ -16,3 +16,4 @@ class Distance_Reader():
             return True
         else:
             return False
+
