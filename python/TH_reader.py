@@ -20,3 +20,4 @@ class TH_Reader():
             return "temp = %.02f C humidity =%.02f%%"%(temp, humidity)
         else:
             return "ERROR"
+
