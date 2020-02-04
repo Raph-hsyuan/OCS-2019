@@ -6,7 +6,7 @@ import TH_reader as th
 import motor_controller as mt
 import json
 
-HOST_NAME = "192.168.43.68"
+HOST_NAME = "127.0.0.1"
 TOPIC_SEND_TEMP = "pilulier/device1/info/environnement"
 TOPIC_SEND_DETECT = "pilulier/device1/info/detect"
 TOPIC_RECEVE_INS = "pilulier/device1/instruction"
@@ -17,7 +17,7 @@ cmt = mt.Motor_Controller(7)
 
 client = mqtt.Client("5V07R0FXA6IN9RLO")
 LIGHT = -1
-client.connect(HOST_NAME)
+client.connect(HOST_NAME,1884)
 client.subscribe(TOPIC_RECEVE_INS)
 
 def on_message(client, userdata, message):
@@ -52,7 +52,7 @@ def on_message(client, userdata, message):
 
     elif instruction == "environnement":
         res = rth.getTH()
-        sendDetected(res)
+        sendHT(str(res))
         print(str(res))
     elif instruction == "detected":
         res = rdis.foundSomething()
@@ -73,5 +73,6 @@ client.on_message = on_message
 client.loop_start() 
 time.sleep(10000000)
 client.loop_stop()
+
 
 
