@@ -22,13 +22,6 @@ cmt = mt.Motor_Controller(7)
 client = mqtt.Client("5V07R0FXA6IN9RLO")
 LIGHT = -1
 client.connect(HOST_NAME, 1884)
-client.message_callback_add(TOPIC_RECEVE_BRILLER, on_message_briller)
-client.message_callback_add(TOPIC_RECEVE_ENV, on_message_env)
-client.message_callback_add(TOPIC_RECEVE_DETECT, on_message_detect)
-client.message_callback_add(TOPIC_RECEVE_DISTRIB, on_message_distrib)
-
-client.subscribe("pilulier/device1/instruction/#")
-
 def on_message_briller(client, userdata, message):
     payload = str(message.payload.decode("utf-8"))
     print("message received " ,str(message.payload.decode("utf-8")))
@@ -80,7 +73,16 @@ def sendDetected(result):
 def sendHT(result):
     client.publish(TOPIC_SEND_TEMP,str(result))
 
+
+def on_message(mosq, obj, msg):
+    print(msg.topic+" "+str(msg.qos)+" "+str(msg.payload))
+
+client.message_callback_add(TOPIC_RECEVE_BRILLER, on_message_briller)
+client.message_callback_add(TOPIC_RECEVE_ENV, on_message_env)
+client.message_callback_add(TOPIC_RECEVE_DETECT, on_message_detect)
+client.message_callback_add(TOPIC_RECEVE_DISTRIB, on_message_distrib)
+
+client.subscribe("pilulier/device1/instruction/#")
+
 client.on_message = on_message
-client.loop_start() 
-time.sleep(10000000)
-client.loop_stop()
+client.loop_forever()
