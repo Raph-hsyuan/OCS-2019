@@ -2,3 +2,100 @@
   GPIO.setup(GPIO_port,GPIO.OUT)
 /home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
   GPIO.setup(GPIO_port,GPIO.OUT)
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
+set: p6 to blue
+set: p6 to off
+set: p6 to blue
+set: p6 to off
+set: p6 to red
+/home/pi/Desktop/OCS-2019-master/python/motor_controller.py:10: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(GPIO_port,GPIO.OUT)
