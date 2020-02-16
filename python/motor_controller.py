@@ -8,6 +8,7 @@ class Motor_Controller():
         self.GPIO_port = GPIO_port
         GPIO.setmode(GPIO.BOARD)
         GPIO.setup(GPIO_port,GPIO.OUT)
+	GPIO.setwarnings(False)
 
     def rotate(self, degree = 22.5):
         GPIO.setmode(GPIO.BOARD)
