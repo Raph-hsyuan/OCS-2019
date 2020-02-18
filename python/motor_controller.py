@@ -8,7 +8,7 @@ class Motor_Controller():
         self.GPIO_port = GPIO_port
         GPIO.setmode(GPIO.BOARD)
         GPIO.setup(GPIO_port,GPIO.OUT)
-	GPIO.setwarnings(False)
+        GPIO.setwarnings(False)
 
     def rotate(self, degree = 22.5):
         GPIO.setmode(GPIO.BOARD)
@@ -20,6 +20,9 @@ class Motor_Controller():
             time.sleep(0.00025)
             GPIO.output(self.GPIO_port,0)#stop
             time.sleep(1)
+        GPIO.cleanup()
+
+    def cleanup(self):
         GPIO.cleanup()
 
 
