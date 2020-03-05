@@ -82,3 +82,397 @@
 1581819315: Opening ipv6 listen socket on port 1884.
 1581819317: New connection from 127.0.0.1 on port 1884.
 1581819317: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822317: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822317: mosquitto version 1.5.7 terminating
+1581822317: mosquitto version 1.5.7 starting
+1581822317: Using default config.
+1581822317: Opening ipv4 listen socket on port 1884.
+1581822317: Opening ipv6 listen socket on port 1884.
+1581822318: New connection from 127.0.0.1 on port 1884.
+1581822318: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822363: New connection from 127.0.0.1 on port 1884.
+1581822363: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822363: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822363: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822364: New connection from 127.0.0.1 on port 1884.
+1581822364: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822364: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822364: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822365: New connection from 127.0.0.1 on port 1884.
+1581822365: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822365: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822365: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822366: New connection from 127.0.0.1 on port 1884.
+1581822366: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822366: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822366: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822367: New connection from 127.0.0.1 on port 1884.
+1581822367: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822367: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822367: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822368: New connection from 127.0.0.1 on port 1884.
+1581822368: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822368: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822368: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822369: New connection from 127.0.0.1 on port 1884.
+1581822369: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822369: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822369: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822370: New connection from 127.0.0.1 on port 1884.
+1581822370: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822370: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822370: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822371: New connection from 127.0.0.1 on port 1884.
+1581822371: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822371: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822371: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822372: New connection from 127.0.0.1 on port 1884.
+1581822372: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822372: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822372: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822375: New connection from 127.0.0.1 on port 1884.
+1581822375: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822375: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822375: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822376: New connection from 127.0.0.1 on port 1884.
+1581822376: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822376: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822376: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822377: New connection from 127.0.0.1 on port 1884.
+1581822377: Client 5V07R0FXA6IN9RLO already connected, closing old connection.
+1581822377: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822377: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822378: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822378: New connection from 127.0.0.1 on port 1884.
+1581822378: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581822390: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581822390: mosquitto version 1.5.7 terminating
+1581822397: mosquitto version 1.5.7 starting
+1581822397: Using default config.
+1581822397: Opening ipv4 listen socket on port 1884.
+1581822397: Opening ipv6 listen socket on port 1884.
+1581822411: New connection from 127.0.0.1 on port 1884.
+1581822411: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581823120: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581823120: mosquitto version 1.5.7 terminating
+1581823432: mosquitto version 1.5.7 starting
+1581823432: Using default config.
+1581823432: Opening ipv4 listen socket on port 1884.
+1581823432: Opening ipv6 listen socket on port 1884.
+1581823450: New connection from 127.0.0.1 on port 1884.
+1581823450: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581854527: mosquitto version 1.5.7 starting
+1581854527: Using default config.
+1581854527: Opening ipv4 listen socket on port 1884.
+1581854527: Opening ipv6 listen socket on port 1884.
+1581854535: New connection from 127.0.0.1 on port 1884.
+1581854535: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581863261: mosquitto version 1.5.7 starting
+1581863261: Using default config.
+1581863261: Opening ipv4 listen socket on port 1884.
+1581863261: Opening ipv6 listen socket on port 1884.
+1581863267: New connection from 127.0.0.1 on port 1884.
+1581863267: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581882988: mosquitto version 1.5.7 starting
+1581882988: Using default config.
+1581882988: Opening ipv4 listen socket on port 1884.
+1581882988: Opening ipv6 listen socket on port 1884.
+1581882997: New connection from 127.0.0.1 on port 1884.
+1581882997: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581894105: mosquitto version 1.5.7 starting
+1581894105: Using default config.
+1581894105: Opening ipv4 listen socket on port 1884.
+1581894105: Opening ipv6 listen socket on port 1884.
+1581894110: New connection from 127.0.0.1 on port 1884.
+1581894110: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581964813: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581964817: New connection from 127.0.0.1 on port 1884.
+1581964817: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581964909: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581964909: mosquitto version 1.5.7 terminating
+1581964917: mosquitto version 1.5.7 starting
+1581964917: Using default config.
+1581964917: Opening ipv4 listen socket on port 1884.
+1581964917: Opening ipv6 listen socket on port 1884.
+1581964934: New connection from 127.0.0.1 on port 1884.
+1581964934: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581967227: Client 5V07R0FXA6IN9RLO has exceeded timeout, disconnecting.
+1581967227: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581974220: New connection from 192.168.0.12 on port 1884.
+1581974220: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581974233: Client HOME disconnected.
+1581974233: New connection from 192.168.0.12 on port 1884.
+1581974233: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581974250: Client HOME disconnected.
+1581974250: New connection from 192.168.0.12 on port 1884.
+1581974250: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581974366: mosquitto version 1.5.7 terminating
+1581974376: mosquitto version 1.5.7 starting
+1581974376: Using default config.
+1581974376: Opening ipv4 listen socket on port 1884.
+1581974376: Opening ipv6 listen socket on port 1884.
+1581974386: New connection from 127.0.0.1 on port 1884.
+1581974386: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581974395: New connection from 192.168.0.12 on port 1884.
+1581974395: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581975250: Socket error on client 5V07R0FXA6IN9RLO, disconnecting.
+1581975250: mosquitto version 1.5.7 terminating
+1581975626: mosquitto version 1.5.7 starting
+1581975626: Using default config.
+1581975626: Opening ipv4 listen socket on port 1884.
+1581975626: Opening ipv6 listen socket on port 1884.
+1581975628: New connection from 127.0.0.1 on port 1884.
+1581975628: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581975629: New connection from 192.168.0.12 on port 1884.
+1581975629: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581975841: mosquitto version 1.5.7 terminating
+1581975885: mosquitto version 1.5.7 starting
+1581975885: Using default config.
+1581975885: Opening ipv4 listen socket on port 1884.
+1581975885: Opening ipv6 listen socket on port 1884.
+1581975893: New connection from 127.0.0.1 on port 1884.
+1581975893: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581975932: New connection from 192.168.0.12 on port 1884.
+1581975932: New client connected from 192.168.0.12 as HOME (c1, k60, u'admin').
+1581976024: mosquitto version 1.5.7 starting
+1581976024: Using default config.
+1581976024: Opening ipv4 listen socket on port 1884.
+1581976024: Opening ipv6 listen socket on port 1884.
+1581976033: New connection from 127.0.0.1 on port 1884.
+1581976033: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976023: mosquitto version 1.5.7 starting
+1581976023: Using default config.
+1581976023: Opening ipv4 listen socket on port 1884.
+1581976023: Opening ipv6 listen socket on port 1884.
+1581976029: New connection from 127.0.0.1 on port 1884.
+1581976029: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976024: mosquitto version 1.5.7 starting
+1581976024: Using default config.
+1581976024: Opening ipv4 listen socket on port 1884.
+1581976024: Opening ipv6 listen socket on port 1884.
+1581976031: New connection from 127.0.0.1 on port 1884.
+1581976031: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976023: mosquitto version 1.5.7 starting
+1581976023: Using default config.
+1581976023: Opening ipv4 listen socket on port 1884.
+1581976023: Opening ipv6 listen socket on port 1884.
+1581976028: New connection from 127.0.0.1 on port 1884.
+1581976028: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976024: mosquitto version 1.5.7 starting
+1581976024: Using default config.
+1581976024: Opening ipv4 listen socket on port 1884.
+1581976024: Opening ipv6 listen socket on port 1884.
+1581976029: New connection from 127.0.0.1 on port 1884.
+1581976029: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+                                                                                                                 1581976024: mosquitto version 1.5.7 starting
+1581976024: Using default config.
+1581976024: Opening ipv4 listen socket on port 1884.
+1581976024: Opening ipv6 listen socket on port 1884.
+1581976037: New connection from 127.0.0.1 on port 1884.
+1581976037: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976023: mosquitto version 1.5.7 starting
+1581976023: Using default config.
+1581976023: Opening ipv4 listen socket on port 1884.
+1581976023: Opening ipv6 listen socket on port 1884.
+1581976036: New connection from 127.0.0.1 on port 1884.
+1581976036: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976023: mosquitto version 1.5.7 starting
+1581976023: Using default config.
+1581976023: Opening ipv4 listen socket on port 1884.
+1581976023: Opening ipv6 listen socket on port 1884.
+1581976029: New connection from 127.0.0.1 on port 1884.
+1581976029: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976023: mosquitto version 1.5.7 starting
+1581976023: Using default config.
+1581976023: Opening ipv4 listen socket on port 1884.
+1581976023: Opening ipv6 listen socket on port 1884.
+1581976029: New connection from 127.0.0.1 on port 1884.
+1581976029: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1581976024: mosquitto version 1.5.7 starting
+1581976024: Using default config.
+1581976024: Opening ipv4 listen socket on port 1884.
+1581976024: Opening ipv6 listen socket on port 1884.
+1581976030: New connection from 127.0.0.1 on port 1884.
+1581976030: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582017106: New connection from 192.168.43.68 on port 1884.
+1582017106: New client connected from 192.168.43.68 as mqtt_c787a3c8.f66c6 (c1, k60).
+1582017237: Client mqtt_c787a3c8.f66c6 disconnected.
+1582017237: New connection from 192.168.43.68 on port 1884.
+1582017237: New client connected from 192.168.43.68 as mqtt_af5d24ce.7672b8 (c1, k60).
+1582017264: Client mqtt_af5d24ce.7672b8 disconnected.
+1582017264: New connection from 192.168.43.68 on port 1884.
+1582017264: New client connected from 192.168.43.68 as mqtt_ab2bec8f.13a0c (c1, k60).
+1582017284: Client mqtt_ab2bec8f.13a0c disconnected.
+1582017284: New connection from 192.168.43.68 on port 1884.
+1582017284: New client connected from 192.168.43.68 as mqtt_e8b24bda.173b38 (c1, k60).
+1582017325: Client mqtt_e8b24bda.173b38 disconnected.
+1582017325: New connection from 192.168.43.68 on port 1884.
+1582017325: New client connected from 192.168.43.68 as mqtt_dfb5b7a8.c734c8 (c1, k60).
+1582017421: Client mqtt_dfb5b7a8.c734c8 disconnected.
+1582017421: New connection from 192.168.43.68 on port 1884.
+1582017421: New client connected from 192.168.43.68 as mqtt_5cc38072.d9e57 (c1, k60).
+1582017432: Client mqtt_5cc38072.d9e57 disconnected.
+1582017952: New connection from 192.168.43.41 on port 1884.
+1582017952: New client connected from 192.168.43.41 as mqtt_9cc63d0f.d0fe7 (c1, k60).
+1582017951: mosquitto version 1.5.7 starting
+1582017951: Using default config.
+1582017951: Opening ipv4 listen socket on port 1884.
+1582017951: Opening ipv6 listen socket on port 1884.
+1582017958: New connection from 127.0.0.1 on port 1884.
+1582017958: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582017973: New connection from 192.168.43.41 on port 1884.
+1582017973: New client connected from 192.168.43.41 as mqtt_9cc63d0f.d0fe7 (c1, k60).
+1582018573: mosquitto version 1.5.7 starting
+1582018573: Using default config.
+1582018573: Opening ipv4 listen socket on port 1884.
+1582018573: Opening ipv6 listen socket on port 1884.
+1582018579: New connection from 127.0.0.1 on port 1884.
+1582018579: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582018587: New connection from 192.168.43.41 on port 1884.
+1582018587: New client connected from 192.168.43.41 as mqtt_9cc63d0f.d0fe7 (c1, k60).
+                                                                                                                                                   1582020019: mosquitto version 1.5.7 starting
+1582020019: Using default config.
+1582020019: Opening ipv4 listen socket on port 1884.
+1582020019: Opening ipv6 listen socket on port 1884.
+1582020025: New connection from 127.0.0.1 on port 1884.
+1582020025: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582020687: New connection from 192.168.43.41 on port 1884.
+1582020687: New client connected from 192.168.43.41 as mqtt_9cc63d0f.d0fe7 (c1, k60).
+1582022486: Client mqtt_9cc63d0f.d0fe7 disconnected.
+1582022486: New connection from 192.168.43.41 on port 1884.
+1582022486: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582022738: New connection from 192.168.43.68 on port 1884.
+1582022738: New client connected from 192.168.43.68 as mqtt_43fd3152.fd7ad (c1, k60).
+1582022918: Client mqtt_43fd3152.fd7ad disconnected.
+1582022918: New connection from 192.168.43.68 on port 1884.
+1582022918: New client connected from 192.168.43.68 as mqtt_3f21f160.7aa63e (c1, k60).
+1582022985: Client mqtt_3f21f160.7aa63e disconnected.
+1582022985: New connection from 192.168.43.68 on port 1884.
+1582022985: New client connected from 192.168.43.68 as mqtt_ead8d296.394d4 (c1, k60).
+1582023127: Client mqtt_ead8d296.394d4 disconnected.
+1582023127: New connection from 192.168.43.68 on port 1884.
+1582023127: New client connected from 192.168.43.68 as mqtt_85343575.b82548 (c1, k60).
+1582023136: Client mqtt_85343575.b82548 disconnected.
+1582023136: New connection from 192.168.43.68 on port 1884.
+1582023136: New client connected from 192.168.43.68 as mqtt_b64b7693.668338 (c1, k60).
+1582023156: Client mqtt_b64b7693.668338 disconnected.
+1582023156: New connection from 192.168.43.68 on port 1884.
+1582023156: New client connected from 192.168.43.68 as mqtt_3933ce01.b26102 (c1, k60).
+1582023226: Client mqtt_3933ce01.b26102 disconnected.
+1582023226: New connection from 192.168.43.68 on port 1884.
+1582023226: New client connected from 192.168.43.68 as mqtt_907cb93f.25c148 (c1, k60).
+1582022693: mosquitto version 1.5.7 starting
+1582022693: Using default config.
+1582022693: Opening ipv4 listen socket on port 1884.
+1582022693: Opening ipv6 listen socket on port 1884.
+1582022705: New connection from 127.0.0.1 on port 1884.
+1582022705: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582023319: New connection from 192.168.43.41 on port 1884.
+1582023319: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582023319: New connection from 192.168.43.68 on port 1884.
+1582023319: New client connected from 192.168.43.68 as mqtt_3cb4536a.587ffc (c1, k60).
+1582023377: Client mqtt_3cb4536a.587ffc disconnected.
+1582023377: New connection from 192.168.43.68 on port 1884.
+1582023377: New client connected from 192.168.43.68 as mqtt_632754b9.335dbc (c1, k60).
+1582023415: mosquitto version 1.5.7 starting
+1582023415: Using default config.
+1582023415: Opening ipv4 listen socket on port 1884.
+1582023415: Opening ipv6 listen socket on port 1884.
+1582023424: New connection from 127.0.0.1 on port 1884.
+1582023424: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582023434: New connection from 192.168.43.68 on port 1884.
+1582023434: New client connected from 192.168.43.68 as mqtt_8bc9968d.23cda8 (c1, k60).
+1582023441: New connection from 192.168.43.41 on port 1884.
+1582023441: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582023620: mosquitto version 1.5.7 starting
+1582023620: Using default config.
+1582023620: Opening ipv4 listen socket on port 1884.
+1582023620: Opening ipv6 listen socket on port 1884.
+1582023627: New connection from 127.0.0.1 on port 1884.
+1582023627: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582023641: New connection from 192.168.43.68 on port 1884.
+1582023641: New client connected from 192.168.43.68 as mqtt_1e767893.ae0c37 (c1, k60).
+                                                                                                                                                                                                                                                                1582023860: mosquitto version 1.5.7 starting
+1582023860: Using default config.
+1582023860: Opening ipv4 listen socket on port 1884.
+1582023860: Opening ipv6 listen socket on port 1884.
+1582023865: New connection from 127.0.0.1 on port 1884.
+1582023865: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582023868: New connection from 192.168.43.41 on port 1884.
+1582023870: New connection from 192.168.43.68 on port 1884.
+1582023870: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582023870: New client connected from 192.168.43.68 as mqtt_ffed4163.d1e6d (c1, k60).
+1582024046: Client mqtt_ffed4163.d1e6d disconnected.
+1582024047: New connection from 192.168.43.68 on port 1884.
+1582024047: New client connected from 192.168.43.68 as mqtt_5befc576.e8b30c (c1, k60).
+1582024163: Client mqtt_5befc576.e8b30c disconnected.
+1582024163: New connection from 192.168.43.68 on port 1884.
+1582024163: New client connected from 192.168.43.68 as mqtt_6ef176eb.46daa8 (c1, k60).
+1582024278: Client mqtt_6ef176eb.46daa8 disconnected.
+1582024278: New connection from 192.168.43.68 on port 1884.
+1582024278: New client connected from 192.168.43.68 as mqtt_900dbae7.5a3b88 (c1, k60).
+1582024354: Client mqtt_900dbae7.5a3b88 disconnected.
+1582024354: New connection from 192.168.43.68 on port 1884.
+1582024354: New client connected from 192.168.43.68 as mqtt_92ff1f71.bef37 (c1, k60).
+1582024864: Client mqtt_92ff1f71.bef37 has exceeded timeout, disconnecting.
+1582024864: Socket error on client mqtt_92ff1f71.bef37, disconnecting.
+1582025026: mosquitto version 1.5.7 starting
+1582025026: Using default config.
+1582025026: Opening ipv4 listen socket on port 1884.
+1582025026: Opening ipv6 listen socket on port 1884.
+1582025035: New connection from 127.0.0.1 on port 1884.
+1582025035: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582025071: New connection from 192.168.43.68 on port 1884.
+1582025071: New client connected from 192.168.43.68 as mqtt_92ff1f71.bef37 (c1, k60).
+1582025850: Client mqtt_92ff1f71.bef37 has exceeded timeout, disconnecting.
+1582025850: Socket error on client mqtt_92ff1f71.bef37, disconnecting.
+1582025965: New connection from 192.168.43.68 on port 1884.
+1582025965: New client connected from 192.168.43.68 as mqtt_92ff1f71.bef37 (c1, k60).
+1582026274: New connection from 192.168.43.41 on port 1884.
+1582026274: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582026355: Client mqtt_92ff1f71.bef37 has exceeded timeout, disconnecting.
+1582026355: Socket error on client mqtt_92ff1f71.bef37, disconnecting.
+1582026546: New connection from 192.168.43.68 on port 1884.
+1582026546: New client connected from 192.168.43.68 as mqtt_92ff1f71.bef37 (c1, k60).
+1582026633: Client mqtt_92ff1f71.bef37 disconnected.
+1582026633: New connection from 192.168.43.68 on port 1884.
+1582026633: New client connected from 192.168.43.68 as mqtt_91afd73a.c2c488 (c1, k60).
+1582026707: mosquitto version 1.5.7 starting
+1582026707: Using default config.
+1582026707: Opening ipv4 listen socket on port 1884.
+1582026707: Opening ipv6 listen socket on port 1884.
+1582026715: New connection from 127.0.0.1 on port 1884.
+1582026715: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582026815: New connection from 192.168.43.68 on port 1884.
+1582026815: New client connected from 192.168.43.68 as mqtt_e320f103.0005b (c1, k60).
+1582026818: New connection from 192.168.43.41 on port 1884.
+1582026818: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582026886: Client mqtt_e320f103.0005b disconnected.
+1582026886: New connection from 192.168.43.68 on port 1884.
+1582026886: New client connected from 192.168.43.68 as mqtt_994a3d64.40f48 (c1, k60).
+1582026978: Client mqtt_994a3d64.40f48 disconnected.
+1582026979: New connection from 192.168.43.68 on port 1884.
+1582026979: New client connected from 192.168.43.68 as mqtt_9bb6e535.031f98 (c1, k60).
+1582026935: mosquitto version 1.5.7 starting
+1582026935: Using default config.
+1582026935: Opening ipv4 listen socket on port 1884.
+1582026935: Opening ipv6 listen socket on port 1884.
+1582026941: New connection from 127.0.0.1 on port 1884.
+1582026941: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582026956: New connection from 192.168.43.68 on port 1884.
+1582026956: New client connected from 192.168.43.68 as mqtt_b526f4f5.e1bd78 (c1, k60).
+1582026962: New connection from 192.168.43.41 on port 1884.
+1582026962: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582027313: mosquitto version 1.5.7 starting
+1582027313: Using default config.
+1582027313: Opening ipv4 listen socket on port 1884.
+1582027313: Opening ipv6 listen socket on port 1884.
+1582027322: New connection from 127.0.0.1 on port 1884.
+1582027322: New client connected from 127.0.0.1 as 5V07R0FXA6IN9RLO (c1, k60).
+1582027340: New connection from 192.168.43.41 on port 1884.
+1582027340: New client connected from 192.168.43.41 as mqtt_3976e824.dd7888 (c1, k60).
+1582027468: New connection from 192.168.43.68 on port 1884.
+1582027468: New client connected from 192.168.43.68 as mqtt_b526f4f5.e1bd78 (c1, k60).
+1582027593: Client mqtt_b526f4f5.e1bd78 disconnected.
+1582027593: New connection from 192.168.43.68 on port 1884.
+1582027593: New client connected from 192.168.43.68 as mqtt_e4ce017b.0f15b (c1, k60).

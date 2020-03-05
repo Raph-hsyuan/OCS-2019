@@ -92,9 +92,9 @@ try:
     cled.setColor(-1)
 
     while True:
-        cled = led.Led_Controller(6)
-        cled.setColor(1) # blink green when everything goes well
-        cled.setColor(-1) # blink green when everything goes well
+        #cled = led.Led_Controller(6)
+        #cled.setColor(1) # blink green when everything goes well
+        #cled.setColor(-1) # blink green when everything goes well
 
         res = rth.getTH()
         sendHT(str(res))
